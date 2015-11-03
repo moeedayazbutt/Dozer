@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dozer</string>
+    <string name="dozer_on">\ud83d\ude34</string>
+    <string name="dozer_off">\ud83d\udeab</string>
+    <string name="toast_dozer_on">Dozer enabled</string>
+    <string name="toast_dozer_off">Dozer disabled</string>
+    <string name="text_description">Dozer conserves battery life by force-idling your Android 6.0+ device when its screen turns off.</string>
+    <string name="text_root_requirement">Root required.</string>
+</resources>
